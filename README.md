@@ -26,6 +26,9 @@
    * 5 - Run Installer
    * 6 - Break Program (default Exit)
 
+## I don't have a direct download link for the installation file, what should I do?
+U can use my [**Direct Linker**](https://github.com/ATiKE1/direct-linker) - is a based FastApi server for upload files and get direct links for download. Or, you will need to contact the app publisher to get a direct download link.
+
 ## Adding Programs
 * Format in `programs.json`:
 ```json
